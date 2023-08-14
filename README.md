@@ -10,5 +10,5 @@ Experimental results on the VoiceBank+DEMAND and WHAMR! datasets demonstrate tha
 Visit our [demo website](https://yangai520.github.io/APNet) for audio samples.
 
 <p align="center">
-<img src="fig/arch.png" align="center" alt="MTANet Architecture" width="100%"/>
+<img src="pic/modelV1.pdf" align="center" alt="IIFC-Net Architecture" width="100%"/>
 </p>
