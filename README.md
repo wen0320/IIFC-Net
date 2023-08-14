@@ -8,3 +8,7 @@ IIFC-Net leverages dual-path HOIIFormer (DPH) to model the distant dependency re
 Experimental results on the VoiceBank+DEMAND and WHAMR! datasets demonstrate that IIFC-Net achieves comparable performance in terms of denoising, dereverberation, and simultaneous denoising and dereverberation, while with fewer parameter counts (0.586M) and complexity.
 
 Visit our [demo website](https://yangai520.github.io/APNet) for audio samples.
+
+<p align="center">
+<img src="fig/arch.png" align="center" alt="MTANet Architecture" width="100%"/>
+</p>
