@@ -7,12 +7,8 @@ In this letter, we propose a monaural speech enhancement network with high-order
 IIFC-Net leverages dual-path HOIIFormer (DPH) to model the distant dependency relation along time and frequency dimensions, respectively, and effectively captures deep-level information through the HOII block. We also design a feature calibration (FC) block to enhance the frequency components of target speech, which can be verified by a visualization analysis.
 Experimental results on the VoiceBank+DEMAND and WHAMR! datasets demonstrate that IIFC-Net achieves comparable performance in terms of denoising, dereverberation, and simultaneous denoising and dereverberation, while with fewer parameter counts (0.586M) and complexity.
 
-Visit our [demo website](https://wenbingwei.github.io) for audio samples.
+# Demo: Visit our [demo website](https://wenbingwei.github.io) for audio samples.
 
-** Model architecture **
-<p align="center">
-<img src="pic/model.png" align="center" alt="IIFC-Net Architecture" width="100%"/>
-</p>
 
 # Result
 Denoising performance comparison with other systems on the VoiceBank+DEMAND dataset
