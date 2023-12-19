@@ -1,4 +1,4 @@
-# IIFC-Net: A Monaural Speech Enhancement Network with High-Order Information Interaction and Feature Calibration
+# IIFC-Net: A Monaural Speech Enhancement Network with High-Order Information Interaction and Feature Calibration （The article has been accepted by IEEE Signal Processing Letters）
 
 # Demo: Visit our [demo website](https://wenbingwei.github.io) for audio samples.
 
